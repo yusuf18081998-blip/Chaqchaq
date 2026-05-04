@@ -1,0 +1,12 @@
+{
+  "name": "chaqchaq",
+  "version": "1.0.0",
+  "description": "Chaqchaq - Telegram Client",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "telegram": "^2.26.22"
+  }
+}
